@@ -3,4 +3,8 @@ layout: page
 title: Contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+I currently live in Melbourne Australia and will move to Nanjing China in July 2018.
+
+Feel free to drop me an email at: lu(dot)dong(at)outlook(dot)come.
+
+You can also add my WeChat public page by searching: lifetimelu.
