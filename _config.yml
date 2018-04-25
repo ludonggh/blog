@@ -20,8 +20,8 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'LifetimeLu'
-description:	       'read, write and do yoga'
+title:		           'LifetimeLu.com'
+description:	       'a girl who read, write and does yoga'
 author:              'Lu Dong'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
