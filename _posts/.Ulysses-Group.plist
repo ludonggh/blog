@@ -60,12 +60,42 @@
 					<integer>3</integer>
 				</dict>
 			</dict>
+			<key>2018-05-10-tipSingulars.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>547605085.01085198</real>
+				<key>version</key>
+				<dict>
+					<key>d3b5233176f211b18824cebc9716d53f79cadb9d9249fd4898112a72ff3c7a6a</key>
+					<integer>11</integer>
+				</dict>
+			</dict>
+			<key>Untitled - 2.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>547605044.87628806</real>
+				<key>lastModification</key>
+				<real>547605044.87628806</real>
+				<key>version</key>
+				<dict>
+					<key>d3b5233176f211b18824cebc9716d53f79cadb9d9249fd4898112a72ff3c7a6a</key>
+					<integer>10</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>547519923.60184801</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>Untitled - 2.md</string>
+		</array>
+		<array>
+			<string>2018-05-10-tipSingulars.md</string>
+		</array>
 		<array>
 			<string>2018-05-09-BeginCalendar.md</string>
 		</array>
@@ -91,7 +121,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>d3b5233176f211b18824cebc9716d53f79cadb9d9249fd4898112a72ff3c7a6a</key>
-			<integer>5</integer>
+			<integer>12</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
