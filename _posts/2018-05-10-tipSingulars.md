@@ -3,7 +3,7 @@ layout: post
 title: “Grammar Tip: Singulars and plurals”
 author: "Lu Dong"
 categories: Read
-tags: [writing, tip]
+tags: [writing]
 image: grammar.jpg
 ---
 
