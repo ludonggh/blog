@@ -1,10 +1,9 @@
-
 ---
 layout: post
 title: “Grammar Tip: Singulars and plurals”
 author: "Lu Dong"
 categories: Read
-tags: [writing]
+tags: [writing, tip]
 image: grammar.jpg
 ---
 
