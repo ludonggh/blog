@@ -62,12 +62,16 @@
 			</dict>
 			<key>2018-05-10-GrammarTip.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>547625436.33165002</real>
 				<key>lastModification</key>
-				<real>547624995.61164403</real>
+				<real>547625436.33165002</real>
 				<key>version</key>
 				<dict>
 					<key>d3b5233176f211b18824cebc9716d53f79cadb9d9249fd4898112a72ff3c7a6a</key>
-					<integer>13</integer>
+					<integer>15</integer>
 				</dict>
 			</dict>
 			<key>Untitled - 2.md</key>
@@ -121,7 +125,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>d3b5233176f211b18824cebc9716d53f79cadb9d9249fd4898112a72ff3c7a6a</key>
-			<integer>14</integer>
+			<integer>15</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
